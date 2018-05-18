@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ပါဠိအဘိဓာန္</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">Pn Daza</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="info">တိပိဋကအဘိဓာန္\n
+ဦးဟုတ္စိန္အဘိဓာန္ႏွင့္\n
+ဓာတြတၳအဘိဓာန္တို႔မွ\n
+စကားလုံးေပါင္း ႏွစ္သိန္းေက်ာ္ပါဝင္ပါသည္။\n\n
+အခ်က္အလက္မ်ားကို\n
+ဆရာေတာ္ဦးဣေႏၵာဘာသ၏ အဘိဓာန္(IOS) ႏွင့္\n
+Merit Sharer ၏ Pali Myanmar Dictionary တို႔မွ\n
+ရယူပါသည္။\n\n
+ေအာက္ပါ libararies မ်ားကို အသုံးျပဳထားပါသည္။\n
+MDetect ( Myat Min Soe)\n
+Rabbit Converter (Saturngod)\n\n
+</string>
+    <string name="dev">Developed by - Pn Daza</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0"   encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/select_all"
+        android:title="Select  All"
+        android:icon="@drawable/select_all"
+        android:visible="false"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/del"
+        android:title="Delete"
+        android:icon="@drawable/del"
+        android:visible="false"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/edit"
+        android:title="Edit"
+        android:icon="@drawable/edit"
+        app:showAsAction="always" />
+</menu>
