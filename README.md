@@ -1,3 +1,7 @@
+# pali-myanmar dictionary for android
+
++ supoort zawgyi and unicode
+
 # ပါဠိ - ျမန္မာ အဘိဓာန္ (အန္းဒ႐ိုက္)
 
 တိပိဋကအဘိဓာန္ ၊ ဦးဟုတ္စိန္အဘိဓာန္ႏွင့္ ဓာတြတၳအဘိဓာန္တို႔မွ
