@@ -1,6 +1,6 @@
 # pali-myanmar dictionary for android
 
-+ supoort zawgyi and unicode
++ support zawgyi and unicode
 
 # ပါဠိ - ျမန္မာ အဘိဓာန္ (အန္းဒ႐ိုက္)
 
